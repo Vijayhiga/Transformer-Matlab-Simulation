@@ -1,0 +1,2 @@
+# Transformer-Matlab-Simulation
+This project aims to model the Electrical Transformer using MATLAB coding techniques to obtain the performance characteristics of the Machine. Performance parameters are thus used to predict the condition for maximum efficiency for transfer of power to the load from the transformer. Power Factor of the load is also monitorted, any drop in Power Factor due to increase in inductive load is rectified by using compensation technique, ie. percentage drop in power factor is noted and reduced using a modeled value of compensation capacitors.  
